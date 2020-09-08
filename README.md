@@ -1,0 +1,2 @@
+# ayubi
+Basharat it soluation
